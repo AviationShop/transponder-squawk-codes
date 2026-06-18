@@ -1,0 +1,46 @@
+[
+  {
+    "code": "7500",
+    "meaning": "Unlawful interference (hijack)"
+  },
+  {
+    "code": "7600",
+    "meaning": "Radio communication failure (lost comms)"
+  },
+  {
+    "code": "7700",
+    "meaning": "General emergency"
+  },
+  {
+    "code": "1200",
+    "meaning": "VFR (United States / Canada)"
+  },
+  {
+    "code": "7000",
+    "meaning": "VFR (Europe / ICAO conspicuity)"
+  },
+  {
+    "code": "2000",
+    "meaning": "Entering from non-transponder area / oceanic"
+  },
+  {
+    "code": "0000",
+    "meaning": "Special use / SSR data unavailable (region-dependent)"
+  },
+  {
+    "code": "1202",
+    "meaning": "VFR glider operations (US)"
+  },
+  {
+    "code": "1255",
+    "meaning": "Firefighting aircraft (US)"
+  },
+  {
+    "code": "0030",
+    "meaning": "FIR conspicuity (some regions)"
+  },
+  {
+    "code": "4000",
+    "meaning": "Special operations / military (region-dependent)"
+  }
+]

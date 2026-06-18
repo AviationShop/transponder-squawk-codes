@@ -1,0 +1,12 @@
+code,meaning
+7500,"Unlawful interference (hijack)"
+7600,"Radio communication failure (lost comms)"
+7700,"General emergency"
+1200,"VFR (United States / Canada)"
+7000,"VFR (Europe / ICAO conspicuity)"
+2000,"Entering from non-transponder area / oceanic"
+0000,"Special use / SSR data unavailable (region-dependent)"
+1202,"VFR glider operations (US)"
+1255,"Firefighting aircraft (US)"
+0030,"FIR conspicuity (some regions)"
+4000,"Special operations / military (region-dependent)"
